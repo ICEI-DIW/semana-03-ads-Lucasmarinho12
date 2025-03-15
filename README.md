@@ -8,17 +8,19 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Lucas Marinho Blon Rocha
+- Matricula:893436
+- Proposta de projeto escolhida: Catálogo de Filmes
+- Breve descrição sobre seu projeto:Paginha que permite a pesquisa pelo nome do filme;filtros como: ano, genero e autor; opção de favoritar filmes.
+Na pagina inicial podemos ver os filmes,suas capas, um breve resumo,titulo, ano e autor
+depois de entrar na pagina aparecerão mais informações sobre o filme 
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-1.png)
